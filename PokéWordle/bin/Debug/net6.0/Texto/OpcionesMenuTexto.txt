@@ -1,0 +1,5 @@
+1. Jugar
+2. Cambiar Pokédex
+3. Reglas
+4. Historial
+5. Salir

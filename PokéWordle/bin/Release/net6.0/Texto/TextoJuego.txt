@@ -1,0 +1,18 @@
+Introduce un Pokémon de 
+letras y de la Pokédex que hayas seleccionado.
+Has seleccionado la dificultad:
+Modo cambiado.
+Opción Incorrecta. Pulsa Enter para continuar.
+Intentos restantes
+¡Has adivinado la palabra!
+Comando inválido
+Intentos totales
+¡Te has quedado sin intentos!
+Has perdido. La respuesta correcta era:
+¿Quieres volver a jugar?
+S: Volver a jugar
+N: Salir
+Introduce tu nombre:
+Datos registrados. Revisa el Historial para ver el registro
+Pokédex:
+No hay ningún historial guardado. Primero juega una partida.

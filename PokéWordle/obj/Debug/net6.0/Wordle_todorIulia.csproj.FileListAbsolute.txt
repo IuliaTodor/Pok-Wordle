@@ -1,0 +1,45 @@
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.exe
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.deps.json
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.runtimeconfig.json
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.pdb
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.csproj.AssemblyReference.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.AssemblyInfoInputs.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.AssemblyInfo.cs
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.csproj.CoreCompileInputs.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\refint\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.pdb
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.genruntimeconfig.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\ref\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.exe
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.deps.json
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.runtimeconfig.json
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.pdb
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.csproj.AssemblyReference.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.AssemblyInfoInputs.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.AssemblyInfo.cs
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.csproj.CoreCompileInputs.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\refint\Wordle_todorIulia.dll
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.pdb
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.genruntimeconfig.cache
+C:\Users\Colli\source\repos\Wordle_todorIulia (1)\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\ref\Wordle_todorIulia.dll
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.exe
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.deps.json
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.runtimeconfig.json
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.dll
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\bin\Debug\net6.0\Wordle_todorIulia.pdb
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.AssemblyInfoInputs.cache
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.AssemblyInfo.cs
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.csproj.CoreCompileInputs.cache
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.sourcelink.json
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.dll
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\refint\Wordle_todorIulia.dll
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.pdb
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\Wordle_todorIulia.genruntimeconfig.cache
+C:\Users\Colli\Downloads\Wordle_todorIulia\Wordle_todorIulia\obj\Debug\net6.0\ref\Wordle_todorIulia.dll

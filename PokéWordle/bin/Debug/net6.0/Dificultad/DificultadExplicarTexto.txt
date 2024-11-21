@@ -1,0 +1,5 @@
+Tenemos 4 dificultades.
+Fácil: Dispones de 7 intentos para adivinar un Pokémon de 5 letras. La lista es más reducida, perfecto para quien no haya jugado nunca un Wordle.
+Normal: Dispones de 6 intentos para adivinar un Pokémon de 6 letras. Es el modo más balanceado.
+Difícil: Dispones de 5 intentos para adivinar un Pokémon de 7 letras.
+Extremo: Dispones de 4 intentos para adivinar un Pokémon de 8 letras.  

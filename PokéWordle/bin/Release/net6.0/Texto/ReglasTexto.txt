@@ -1,0 +1,7 @@
+Por si nunca has jugado a un Wordle, estas son las reglas:
+Para empezar esto no es un Wordle, es el POKÉWORDLE(!!!!). Tenemos una palabra oculta, y esta es el nombre de un Pokémon. Tu objetivo es adivinar esta palabra oculta; para hacerlo tienes que escribir palabras y te diré las letras que hayas acertado. La longitud de la palabra dependerá de la dificultad que hayas seleccionado.
+-Si se colorea en verde es que la letra está en la posición correcta.
+-Si se colorea en amarillo es que la letra está en la palabra, pero en la posición incorrecta.
+-Si se colorea en rojo es que la letra no está en la palabra.
+La cantidad de intentos dependerá de la dificultad que hayas seleccionado. También podrás seleccionar en el menú si quieres jugar con los Pokémon de primera a cuarta generación o con los de quinta a novena generación. Si no seleccionas el modo jugarás con los Pokémon de primera a cuarta generación por defecto.
+Dicho esto te dejaré jugar, espero que lo pases muy bien :)

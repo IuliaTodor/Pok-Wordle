@@ -1,0 +1,28 @@
+Nombre:Hound
+Dificultad:Normal
+Modo:Pokemon1-4Gen
+Intentos restantes:0
+Intentos totales:6
+Pokémon:KRABBY
+_
+Nombre:Hound
+Dificultad:Facil
+Modo:Pokemon1-4Gen
+Intentos restantes:5
+Intentos totales:7
+Pokémon:RIOLU
+_
+Nombre:Hound
+Dificultad:Facil
+Modo:Pokemon1-4Gen
+Intentos restantes:2
+Intentos totales:7
+Pokémon:HO-OH
+_
+Nombre:HOUND
+Dificultad:Facil
+Modo:Pokemon1-4Gen
+Intentos restantes:2
+Intentos totales:7
+Pokémon:BURMY
+_

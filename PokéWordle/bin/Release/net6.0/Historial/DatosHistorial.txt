@@ -1,0 +1,6 @@
+Nombre:
+Dificultad:
+Modo:
+Intentos restantes:
+Intentos totales:
+Pokémon:

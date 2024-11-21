@@ -1,0 +1,5 @@
+C:\Users\Colli\Desktop\Wordle_todorIulia.exe
+C:\Users\Colli\Desktop\Wordle_todorIulia.dll
+C:\Users\Colli\Desktop\Wordle_todorIulia.deps.json
+C:\Users\Colli\Desktop\Wordle_todorIulia.runtimeconfig.json
+C:\Users\Colli\Desktop\Wordle_todorIulia.pdb

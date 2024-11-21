@@ -1,0 +1,6 @@
+Por favor, selecciona la dificultad:
+1. Facil
+2. Normal
+3. Difícil
+4. Extremo
+5. ¿En qué se diferencian?
